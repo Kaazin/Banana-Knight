@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: fdd4bd2b5424e438abeec50b2be94f63
+timeCreated: 1506693816
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Corn_Fruit
+    100002: Corn_Fruit.001
+    100004: //RootNode
+    400000: Corn_Fruit
+    400002: Corn_Fruit.001
+    400004: //RootNode
+    2300000: Corn_Fruit
+    2300002: Corn_Fruit.001
+    3300000: Corn_Fruit
+    3300002: Corn_Fruit.001
+    4300000: Corn_Fruit.001
+    4300002: Corn_Fruit
+    7400000: Corn_Fruit.001|Corn_Fruit.001Action
+    7400002: Corn_Fruit.001|Corn_Fruit.001Action.001
+    7400004: Corn_Fruit.001|Corn_FruitAction
+    7400006: Corn_Fruit.001|Corn_FruitAction.001
+    7400008: Corn_Fruit|Corn_Fruit.001Action
+    7400010: Corn_Fruit|Corn_Fruit.001Action.001
+    7400012: Corn_Fruit|Corn_FruitAction
+    7400014: Corn_Fruit|Corn_FruitAction.001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
